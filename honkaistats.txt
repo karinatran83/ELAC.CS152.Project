@@ -1,5 +1,0 @@
-<!DOCTYPE html>
-<html>
-<head> 
-<title> Honkai Star Rail Banner Pull Statistics </title>
-</head>
